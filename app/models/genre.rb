@@ -18,6 +18,6 @@ class Genre < ActiveRecord::Base
       n = artists.name
       n
     end
-    binding.pry
+    #binding.pry
   end
 end
